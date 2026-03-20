@@ -6,7 +6,7 @@
 ## ✴︎ Member
 <sub>개발과는 깃허브 링크, 디자인과는 인스타 링크로 대체합니다.</sub>
 
-<table>
+<!-- <table>
 <tr>
 <td align="center" width="150px">
 <a href="https://github.com/jaehokang1007" target="_blank">
@@ -48,6 +48,7 @@
 </table>
 
 <br>
+-->
 
 <table>
 <tr>
